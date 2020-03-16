@@ -12,12 +12,6 @@ body {
   );
 }
 
-h1 {
-  font-family: "Bauhaus 93";
-  font-weight: 200;
-  color: #0ccac4;
-}
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
